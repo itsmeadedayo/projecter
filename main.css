@@ -1,0 +1,111 @@
+
+    video {  
+        width: 100vw;
+        height: 100vh;
+        object-fit:cover;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1;
+      }
+    
+    img{
+       
+        height: 120px;
+        width: 180px;
+        border-radius: 50px;
+        position: absolute;
+    }
+  /* ul{
+    position: absolute;
+  }
+    li{
+      display: inline;
+      margin: 20px;
+    }
+    ul{
+      margin-left: 900px;
+      
+    }
+
+    .margin{
+      margin: 30px;
+    } */
+
+
+   
+	
+	
+	
+	
+
+header a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+  font-size: 14px;
+  
+}
+
+header li {
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+header #branding {
+	margin-left: 900px;
+}
+
+header #branding h2 {
+	margin: 0;
+}
+
+header nav {
+	float: right;
+	margin-top: 10px;
+}
+
+header .highlight,
+header .current a {
+	color: purple;
+  font-weight: bolder;
+  
+}
+
+header a:hover {
+	color: purple;
+}
+
+
+.dark {
+    padding: 15px;
+    background: blueviolet;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+aside#sidebar {
+    margin-left: 430px;
+    padding-top: 350px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+aside#sidebar .quote input,
+aside#sidebar .quote textarea {
+    width: 90%;
+    padding: 5px;
+}
+
+
+.button1{
+  font-size: 15px;
+  background-color:white ;
+  color:blueviolet;
+} 
+
+input{
+  font-size: 15px;
+  
+}
